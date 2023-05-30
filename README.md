@@ -10,6 +10,8 @@
 - システム関係のメソッド追加
 - ゲームデータの読み込み・保存をするメソッド追加
 - デバッグ用メソッド追加
+### scripts/Engine/myGame
+- 初期化データを格納するクラスを制作
 ## dataフォルダ概要
 ### color
 パーティクル用の画像、モデルが入ったフォルダ
@@ -25,6 +27,7 @@
 - scripts/Engine/MyLibrary
 - scripts/Bases/GameBase
 - scripts/Tasks/Scene_MainGame/Task_PlayerBase
+- 初期化データ読み込み処理（「scripts/Tasks」内のファイルで使用）
 
 # 的配置ツール
 ## 制作時に追加したファイル
@@ -39,4 +42,3 @@
 ### generateData
 ツールで保存した情報を入れるフォルダ。生成した的の配置を合成するソフトが入っている。
 #### その他のフォルダの概要はdataフォルダと同一
-
