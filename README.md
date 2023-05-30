@@ -1,9 +1,9 @@
 # Super_Catch_Ball
-## 〇制作時に使用したファイル
+## 〇制作時に追加したファイル
 - scripts/Tasksフォルダ内のファイルすべて
 - scripts/Bases/GameBase(.h .cpp)
 - scripts/Engine/MyLibrary(.h .cpp)
-## 〇一部追加したファイル
+## 〇内容を一部追加したファイル
 ### scripts/Engine/MyPG（.h 37～86行）
 - カメラの設定
 - ゲーム全体で使用する変数の定義
