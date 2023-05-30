@@ -1,0 +1,11 @@
+{
+	"displayPos":{
+		"x":960,
+		"y":840
+	},
+	"displayDistance":{
+		"x":200,
+		"y":0
+	},
+	"digitMin": 6
+}

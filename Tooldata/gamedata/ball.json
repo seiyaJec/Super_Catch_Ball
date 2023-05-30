@@ -1,0 +1,38 @@
+{
+	"position":{
+		"x":0,
+		"y":500,
+		"z":500
+	},
+	"moveVec": {
+		"x":0,
+		"y":0,
+		"z":0
+	},
+	"hitBase":{
+		"centerpos": {
+			"x":0,
+			"y":0,
+			"z":0
+		},
+		"size": {
+			"w": 100,
+			"h": 100,
+			"d": 100
+		},
+		"directionY": {
+			"x": 0,
+			"y": 1,
+			"z": 0
+		}
+	},
+	"comboScoreTable":[
+		10,
+		20,
+		30,
+		40,
+		50
+	],
+	"modelFilePath": "./data/mesh/ball.mv1",
+	"drawHitBase": false
+}

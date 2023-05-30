@@ -1,0 +1,72 @@
+{
+	"wave":[
+		{
+			"generateData":[
+				{
+					"position":{
+						"x":0,
+						"y":500,
+						"z":1000
+					},
+					"moveSpeed":1,
+					"moveScaleW":500,
+					"addRotate": 0
+				},
+				{
+					"position":{
+						"x":0,
+						"y":500,
+						"z":2000
+					},
+					"moveSpeed":1,
+					"moveScaleW":500,
+					"addRotate": 0
+				},
+				{
+					"position":{
+						"x":0,
+						"y":500,
+						"z":3000
+					},
+					"moveSpeed":1,
+					"moveScaleW":500,
+					"addRotate": 0
+				},
+				{
+					"position":{
+						"x":0,
+						"y":500,
+						"z":4000
+					},
+					"moveSpeed":1,
+					"moveScaleW":500,
+					"addRotate": 90
+				}
+			]
+		},
+		{
+			"generateData":[
+				{
+					"position":{
+						"x":0,
+						"y":500,
+						"z":1000
+					},
+					"moveSpeed":1,
+					"moveScaleW":500,
+					"addRotate": 0
+				},
+				{
+					"position":{
+						"x":0,
+						"y":500,
+						"z":2000
+					},
+					"moveSpeed":1,
+					"moveScaleW":500,
+					"addRotate": 90
+				}
+			]
+		}
+	]
+}

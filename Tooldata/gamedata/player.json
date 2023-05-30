@@ -1,0 +1,86 @@
+{
+	"handPos": {
+		"x": 180,
+		"y": 200,
+		"z": 0
+	},
+	"throwStartPos": {
+		"x": 0,
+		"y": 500,
+		"z": 300
+	},
+	"modelAngle": {
+		"x": 0,
+		"y": 90,
+		"z": 0
+	},
+	"cameraDistance": {
+		"x": 0,
+		"y": 800,
+		"z": -1500
+	},
+	"hitBase": {
+		"centerpos": {
+			"x": 0,
+			"y": 300,
+			"z": 0
+		},
+		"size": {
+			"w": 150,
+			"h": 700,
+			"d": 150
+		},
+		"directionY": {
+			"x": 0,
+			"y": 1,
+			"z": 0
+		}
+	},
+	"catchBase": {
+		"centerpos": {
+			"x": 0,
+			"y": 500,
+			"z": 500
+		},
+		"size": {
+			"w": 1000,
+			"h": 1000,
+			"d": 150
+		},
+		"directionY": {
+			"x": 0,
+			"y": 1,
+			"z": 0
+		}
+	},
+	"throwVec": {
+		"x": 0,
+		"y": 0,
+		"z": 1
+	},
+	"throwPower": 300,
+	"throwStopFrames": 40,
+	"walkSpeed": 30,
+	"angleTable": [
+		315, 0, 45,
+		270, -1, 90,
+		225, 180, 135
+	],
+	
+	"score":{
+		"catch":100,
+		"miss":-30
+	},
+	
+	"keyconfig":{
+		"move_front": [17,200],
+		"move_back": [31,208],
+		"move_left": [30,203],
+		"move_right": [32,205],
+		"throwBall":[42,54]
+	},
+	"modelFilePath": "./data/mesh/playerFull.mv1",
+	"drawHitBase": false,
+	"drawCatchBase": true
+}
+

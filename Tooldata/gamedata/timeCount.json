@@ -1,0 +1,12 @@
+{
+	"timePos":{
+		"x":960,
+		"y":100
+	},
+	"clock_size":{
+		"w":64,
+		"h":64
+	},
+	"digitMin": 3,
+	"clock_filePath":"./data/image/clock.png"
+}

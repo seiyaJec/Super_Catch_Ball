@@ -1,0 +1,17 @@
+{
+	"scorePos":{
+		"x":0,
+		"y":0
+	},
+	"num_oneOfImageSize":{
+		"w":32,
+		"h":64
+	},
+	"num_imagesNumSize":{
+		"w":13,
+		"h":1
+	},
+	"num_imagesNumAll":13,
+	"num_filePath":"./data/image/number.png"
+	
+}

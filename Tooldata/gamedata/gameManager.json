@@ -1,0 +1,53 @@
+{
+	"player1pos": {
+		"x": 0,
+		"y": 180,
+		"z": 0
+	},
+	"player1defaultAngle": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"ground1pos": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"border1posZ": -3000,
+	"border1checkArea": "z-",
+
+	
+	
+	
+	
+	
+	"player2pos": {
+		"x": 0,
+		"y": 180,
+		"z": 20000
+	},
+	"player2defaultAngle":{
+		"x": 0,
+		"y": 180,
+		"z": 0
+	},
+	"ground2pos": {
+		"x": 0,
+		"y": 0,
+		"z": 20000
+	},
+	"border2posZ": 23000,
+	"border2checkArea": "z+",
+	
+	
+	
+	
+	
+	
+	"playerMoveAreaW": 5000,
+	"playerMoveAreaD": 2000,
+	"beforeGameTime":9999,
+	"gameTime": 9999,
+	"drawMoveArea": false
+}
