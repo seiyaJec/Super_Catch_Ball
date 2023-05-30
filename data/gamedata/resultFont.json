@@ -1,0 +1,12 @@
+{
+  "position": {
+    "x": 580,
+    "y": 500
+  },
+  "imageFilePath": "./data/image/Result.png",
+  "imageSize": {
+    "w": 732,
+    "h": 184
+  },
+  "renderPriority": 0.15
+}

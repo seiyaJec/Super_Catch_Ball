@@ -1,0 +1,11 @@
+{
+	"ReversePyramid":{
+		"cuts":10,
+		"distance":100,
+		"moveSpeed":20
+	},
+	"CircleScaleUp":{
+		"scaleUpSpeed":20
+	}
+
+}

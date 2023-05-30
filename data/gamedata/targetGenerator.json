@@ -1,0 +1,770 @@
+{
+    "wave": [
+        {
+            "generateData": [
+                {
+                    "addRotate": 90.0,
+                    "basePosition": {
+                        "x": 2402.100341796875,
+                        "y": 500.0,
+                        "z": 1908.71484375
+                    },
+                    "moveScaleW": 2200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 270.0,
+                    "basePosition": {
+                        "x": -2427.385498046875,
+                        "y": 500.0,
+                        "z": 3956.8212890625
+                    },
+                    "moveScaleW": 2500.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 90.0,
+                    "basePosition": {
+                        "x": 2475.51806640625,
+                        "y": 500.0,
+                        "z": 6156.951171875
+                    },
+                    "moveScaleW": 2200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 270.0,
+                    "basePosition": {
+                        "x": -2428.267333984375,
+                        "y": 500.0,
+                        "z": 7928.4755859375
+                    },
+                    "moveScaleW": 2500.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 90.0,
+                    "basePosition": {
+                        "x": 2475.51806640625,
+                        "y": 500.0,
+                        "z": 10598.599609375
+                    },
+                    "moveScaleW": 2200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 270.0,
+                    "basePosition": {
+                        "x": -2299.89599609375,
+                        "y": 500.0,
+                        "z": 12678.21484375
+                    },
+                    "moveScaleW": 2500.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 90.0,
+                    "basePosition": {
+                        "x": 2475.518310546875,
+                        "y": 500.0,
+                        "z": 14757.8310546875
+                    },
+                    "moveScaleW": 2200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 270.0,
+                    "basePosition": {
+                        "x": -2325.5703125,
+                        "y": 500.0,
+                        "z": 16734.75
+                    },
+                    "moveScaleW": 2500.0,
+                    "moveSpeed": 1.0
+                }
+            ]
+        },
+        {
+            "generateData": [
+                {
+                    "addRotate": 90.0,
+                    "basePosition": {
+                        "x": 2452.670654296875,
+                        "y": 500.0,
+                        "z": 1832.85986328125
+                    },
+                    "moveScaleW": 2200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 270.0,
+                    "basePosition": {
+                        "x": -2182.312744140625,
+                        "y": 500.0,
+                        "z": 3028.37158203125
+                    },
+                    "moveScaleW": 2500.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 90.0,
+                    "basePosition": {
+                        "x": 2446.835693359375,
+                        "y": 500.0,
+                        "z": 4880.03173828125
+                    },
+                    "moveScaleW": 2200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 270.0,
+                    "basePosition": {
+                        "x": -2160.26953125,
+                        "y": 500.0,
+                        "z": 6775.7783203125
+                    },
+                    "moveScaleW": 2500.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 270.0,
+                    "basePosition": {
+                        "x": 2490.92236328125,
+                        "y": 500.0,
+                        "z": 8583.3505859375
+                    },
+                    "moveScaleW": 2200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 270.0,
+                    "basePosition": {
+                        "x": -2125.64794921875,
+                        "y": 500.0,
+                        "z": 10442.01171875
+                    },
+                    "moveScaleW": 2500.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 90.0,
+                    "basePosition": {
+                        "x": 2607.753662109375,
+                        "y": 500.0,
+                        "z": 12085.5546875
+                    },
+                    "moveScaleW": 2200.0,
+                    "moveSpeed": 1.0
+                }
+            ]
+        },
+        {
+            "generateData": [
+                {
+                    "addRotate": 90.0,
+                    "basePosition": {
+                        "x": 2452.670654296875,
+                        "y": 500.0,
+                        "z": 1832.85986328125
+                    },
+                    "moveScaleW": 2200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 270.0,
+                    "basePosition": {
+                        "x": -2182.312744140625,
+                        "y": 500.0,
+                        "z": 3028.37158203125
+                    },
+                    "moveScaleW": 2500.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 90.0,
+                    "basePosition": {
+                        "x": 2446.835693359375,
+                        "y": 500.0,
+                        "z": 4880.03173828125
+                    },
+                    "moveScaleW": 2200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 270.0,
+                    "basePosition": {
+                        "x": -2160.26953125,
+                        "y": 500.0,
+                        "z": 6775.7783203125
+                    },
+                    "moveScaleW": 2500.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 90.0,
+                    "basePosition": {
+                        "x": 2490.92236328125,
+                        "y": 500.0,
+                        "z": 8583.3505859375
+                    },
+                    "moveScaleW": 2200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 270.0,
+                    "basePosition": {
+                        "x": -2125.64794921875,
+                        "y": 500.0,
+                        "z": 10442.01171875
+                    },
+                    "moveScaleW": 2500.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 90.0,
+                    "basePosition": {
+                        "x": 2607.753662109375,
+                        "y": 500.0,
+                        "z": 12085.5546875
+                    },
+                    "moveScaleW": 2200.0,
+                    "moveSpeed": 1.0
+                }
+            ]
+        },
+        {
+            "generateData": [
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 1200.0,
+                        "y": 500.0,
+                        "z": 2287.994140625
+                    },
+                    "moveScaleW": 1200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 180.0,
+                    "basePosition": {
+                        "x": -1200.0,
+                        "y": 500.0,
+                        "z": 3703.96923828125
+                    },
+                    "moveScaleW": 1200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 1200.0,
+                        "y": 500.0,
+                        "z": 5423.3671875
+                    },
+                    "moveScaleW": 1200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 1200.0,
+                        "y": 500.0,
+                        "z": 9216.1572265625
+                    },
+                    "moveScaleW": 1200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 1200.0,
+                        "y": 500.0,
+                        "z": 13489.3662109375
+                    },
+                    "moveScaleW": 1200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 1200.0,
+                        "y": 500.0,
+                        "z": 16675.310546875
+                    },
+                    "moveScaleW": 1200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 180.0,
+                    "basePosition": {
+                        "x": -1200.0,
+                        "y": 500.0,
+                        "z": 7193.3359375
+                    },
+                    "moveScaleW": 1200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 180.0,
+                    "basePosition": {
+                        "x": -1200.0,
+                        "y": 500.0,
+                        "z": 11112.5517578125
+                    },
+                    "moveScaleW": 1200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 180.0,
+                    "basePosition": {
+                        "x": -1200.0,
+                        "y": 500.0,
+                        "z": 15031.767578125
+                    },
+                    "moveScaleW": 1200.0,
+                    "moveSpeed": 1.0
+                }
+            ]
+        },
+        {
+            "generateData": [
+                {
+                    "addRotate": 180.0,
+                    "basePosition": {
+                        "x": -900.0,
+                        "y": 500.0,
+                        "z": 18015.4296875
+                    },
+                    "moveScaleW": 1000.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 180.0,
+                    "basePosition": {
+                        "x": -1000.0,
+                        "y": 500.0,
+                        "z": 16953.44921875
+                    },
+                    "moveScaleW": 1100.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 180.0,
+                    "basePosition": {
+                        "x": -1100.0,
+                        "y": 500.0,
+                        "z": 15613.328125
+                    },
+                    "moveScaleW": 1200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 180.0,
+                    "basePosition": {
+                        "x": -1200.0,
+                        "y": 500.0,
+                        "z": 14146.783203125
+                    },
+                    "moveScaleW": 1300.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 180.0,
+                    "basePosition": {
+                        "x": -1300.0,
+                        "y": 500.0,
+                        "z": 13110.087890625
+                    },
+                    "moveScaleW": 1400.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 180.0,
+                    "basePosition": {
+                        "x": -1400.0,
+                        "y": 500.0,
+                        "z": 11997.5361328125
+                    },
+                    "moveScaleW": 1500.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 180.0,
+                    "basePosition": {
+                        "x": -1500.0,
+                        "y": 500.0,
+                        "z": 10404.564453125
+                    },
+                    "moveScaleW": 1600.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 900.0,
+                        "y": 500.0,
+                        "z": 1832.85888671875
+                    },
+                    "moveScaleW": 1000.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 1100.0,
+                        "y": 500.0,
+                        "z": 2869.5556640625
+                    },
+                    "moveScaleW": 1200.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 1200.0,
+                        "y": 500.0,
+                        "z": 3982.107421875
+                    },
+                    "moveScaleW": 1300.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 1300.0,
+                        "y": 500.0,
+                        "z": 5094.65869140625
+                    },
+                    "moveScaleW": 1400.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 1400.0,
+                        "y": 500.0,
+                        "z": 6586.4892578125
+                    },
+                    "moveScaleW": 1500.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 1500.0,
+                        "y": 500.0,
+                        "z": 7774.896484375
+                    },
+                    "moveScaleW": 1600.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 1600.0,
+                        "y": 500.0,
+                        "z": 8856.328125
+                    },
+                    "moveScaleW": 1700.0,
+                    "moveSpeed": 1.0
+                }
+            ]
+        },
+        {
+            "generateData": [
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 0.0,
+                        "y": 500.0,
+                        "z": 9517.1162109375
+                    },
+                    "moveScaleW": 5000.0,
+                    "moveSpeed": 2.0
+                }
+            ]
+        },
+        {
+            "generateData": [
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 1390.6895751953125,
+                        "y": 500.0,
+                        "z": 2161.568359375
+                    },
+                    "moveScaleW": 0.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 1441.2601318359375,
+                        "y": 500.0,
+                        "z": 3501.6865234375
+                    },
+                    "moveScaleW": 0.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 1491.83056640625,
+                        "y": 500.0,
+                        "z": 4968.232421875
+                    },
+                    "moveScaleW": 0.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 1517.1158447265625,
+                        "y": 500.0,
+                        "z": 6637.0595703125
+                    },
+                    "moveScaleW": 0.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 1517.1158447265625,
+                        "y": 500.0,
+                        "z": 8356.4580078125
+                    },
+                    "moveScaleW": 0.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": -530.9905395507813,
+                        "y": 500.0,
+                        "z": 9646.005859375
+                    },
+                    "moveScaleW": 0.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": -530.9905395507813,
+                        "y": 500.0,
+                        "z": 11517.1162109375
+                    },
+                    "moveScaleW": 0.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": -505.70526123046875,
+                        "y": 500.0,
+                        "z": 13362.9404296875
+                    },
+                    "moveScaleW": 0.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": -455.134765625,
+                        "y": 500.0,
+                        "z": 15486.90234375
+                    },
+                    "moveScaleW": 0.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": -455.134765625,
+                        "y": 500.0,
+                        "z": 17738.43359375
+                    },
+                    "moveScaleW": 0.0,
+                    "moveSpeed": 1.0
+                }
+            ]
+        },
+        {
+            "generateData": [
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 0.0,
+                        "y": 500.0,
+                        "z": 2338.56494140625
+                    },
+                    "moveScaleW": 2000.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 270.0,
+                    "basePosition": {
+                        "x": 0.0,
+                        "y": 500.0,
+                        "z": 4538.38330078125
+                    },
+                    "moveScaleW": 2000.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 0.0,
+                        "y": 500.0,
+                        "z": 6611.7744140625
+                    },
+                    "moveScaleW": 1000.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 0.0,
+                        "y": 500.0,
+                        "z": 8634.595703125
+                    },
+                    "moveScaleW": 1000.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 0.0,
+                        "y": 500.0,
+                        "z": 11921.6806640625
+                    },
+                    "moveScaleW": 1000.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 0.0,
+                        "y": 500.0,
+                        "z": 10227.5673828125
+                    },
+                    "moveScaleW": 1000.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 0.0,
+                        "y": 500.0,
+                        "z": 14197.353515625
+                    },
+                    "moveScaleW": 1000.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 0.0,
+                        "y": 500.0,
+                        "z": 15992.607421875
+                    },
+                    "moveScaleW": 1000.0,
+                    "moveSpeed": 1.0
+                }
+            ]
+        },
+        {
+            "generateData": [
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 0.0,
+                        "y": 500.0,
+                        "z": 2338.56494140625
+                    },
+                    "moveScaleW": 2000.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 270.0,
+                    "basePosition": {
+                        "x": 0.0,
+                        "y": 500.0,
+                        "z": 4538.38330078125
+                    },
+                    "moveScaleW": 2000.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 0.0,
+                        "y": 500.0,
+                        "z": 6611.7744140625
+                    },
+                    "moveScaleW": 1000.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 0.0,
+                        "y": 500.0,
+                        "z": 8634.595703125
+                    },
+                    "moveScaleW": 1000.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 0.0,
+                        "y": 500.0,
+                        "z": 11921.6806640625
+                    },
+                    "moveScaleW": 1000.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 0.0,
+                        "y": 500.0,
+                        "z": 10227.5673828125
+                    },
+                    "moveScaleW": 1000.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 0.0,
+                        "y": 500.0,
+                        "z": 14197.353515625
+                    },
+                    "moveScaleW": 1000.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 0.0,
+                        "y": 500.0,
+                        "z": 15992.607421875
+                    },
+                    "moveScaleW": 1000.0,
+                    "moveSpeed": 1.0
+                },
+                {
+                    "addRotate": 0.0,
+                    "basePosition": {
+                        "x": 0.0,
+                        "y": 500.0,
+                        "z": 17350.0
+                    },
+                    "moveScaleW": 1000.0,
+                    "moveSpeed": 3.0
+                }
+            ]
+        }
+    ]
+}
