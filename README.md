@@ -1,5 +1,5 @@
 # Super_Catch_Ball
-##　〇制作時に使用したファイル
+## 〇制作時に使用したファイル
 - scripts/Tasksフォルダ内のファイルすべて
 - scripts/Bases/GameBase(.h .cpp)
 - scripts/Engine/MyLibrary(.h .cpp)
