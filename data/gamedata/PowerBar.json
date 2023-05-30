@@ -1,0 +1,8 @@
+{
+	"imageFrameFilePath":"./data/image/PowerBarFrame.png",
+	"imageVolumeFilePath":"./data/image/PowerBarVolume.png",
+	"imageSize":{
+		"w":100,
+		"h":250
+	}
+}
