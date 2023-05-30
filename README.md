@@ -42,3 +42,5 @@
 ### generateData
 ツールで保存した情報を入れるフォルダ。生成した的の配置を合成するソフトが入っている。
 #### その他のフォルダの概要はdataフォルダと同一
+## 特に力を入れた、もしくは工夫したファイル
+- Toolscripts/Tasks/CreatorTask/Task_Creator
